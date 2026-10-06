@@ -1,0 +1,4 @@
+gcc UDP_Server.c -o UDP_Server.exe -lws2_32
+UDP_Server.exe
+gcc UDP_Client.c -o UDP_Client.exe -lws2_32
+UDP_Client.exe
